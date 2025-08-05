@@ -87,6 +87,4 @@ Winston está configurado para mostrar logs en consola.
 
 Si se activan en el futuro, los intentos de notificación por email serán registrados en la base de datos.
 
-## 📃 Licencia
 
-MIT
